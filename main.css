@@ -56,3 +56,6 @@ button{
     margin-top: 10px;
     border-radius: 50%;
 }
+.disabledButton{
+    background-color: grey;
+}
